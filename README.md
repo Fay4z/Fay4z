@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Fayaz<br><br>- 🔭 I’m currently working on QR Generator <br>- 📚 I'm currently learning ReactJS<br>- 💬 Ask me about Javascript<br>- 📫 How to reach me fayazjr212@gmail.com</p>
+<p align="left">Hi 👋, I'm Fayaz<br><br>- 🔭 I’m currently working on Task Manager<br>- 📚 I'm currently learning ReactJS<br>- 💬 Ask me about Javascript<br>- 📫 How to reach me fayazjr212@gmail.com</p>
 
 ###
 
