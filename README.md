@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Fayaz<br><br>- 🔭 I’m currently building on File Storage Web Application<br>- 📚 I'm currently working with MERN Stack<br>- 💬 Ask me about Javascript, React<br>- 📫 How to reach me fayazjr212@gmail.com</p>
+<p align="left">Hi 👋, I'm Fayaz<br><br>- 🔭 I’m currently building File Storage Web Application<br>- 📚 I'm currently working with MERN Stack<br>- 💬 Ask me about Javascript, React<br>- 📫 How to reach me fayazjr212@gmail.com</p>
 
 ###
 
