@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Fayaz<br><br>- 🔭 I’m currently looking for Machine Learning projects to work<br>- 📚 I'm currently studying Machine Learning and Deep Learning<br>- 💬 Ask me about Javascript, Web Development and Machine Learning<br>- 📫 How to reach me: fayazjr212@gmail.com</p>
+<p align="left">Hi 👋, I'm Fayaz<br><br>- 🔭 I’m currently looking for interesting projects to work<br>- 📚 I'm currently studying Machine Learning and Deep Learning<br>- 💬 Ask me about Javascript, Web Development and Machine Learning<br>- 📫 How to reach me: fayazjr212@gmail.com</p>
 
 ###
 
